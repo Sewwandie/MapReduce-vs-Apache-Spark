@@ -1,6 +1,3 @@
-
-
-
 -- Create table in Hadoop using hiveQL
 CREATE TABLE flight_delays(
     Id INT,
